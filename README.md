@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://files.catbox.moe/jd0s4p.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•WENS+V4-+V4•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•WENS+V4-+V4•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+WENS+ACKING;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-WENS ACKING-red.svg?style=for-the-badge&logo=github"></a>
@@ -26,11 +26,11 @@
 
 ## WENS-V4 Deployment Methods
 ---
-1.  **Fork Repo First, [CLICK HERE](https://github.com/DavidCyrilTech/Anita-V4/fork) (A MUST) and Star ⭐ Repository for Courage.**
+1.  **Fork Repo First, [CLICK HERE](https://github.com/WENS/WENS-V4/fork) (A MUST) and Star ⭐ Repository for Courage.**
 2.  **Get SESSION ID BY [PAIRING CODE](https://pair.WENS.net.ng)** 
 3. **Deploy on [HEROKU](https://dashboard.heroku.com/new?template=https://github.com/WENS/WENS-V4)**
 3. **Deploy on [RENDER](https://dashboard.render.com/signup)**
-3. **Deploy on [KOYEB](https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FDavidCyrilTech&branch=main&name=Anita-V4&builder=dockerfile&env%5BAUTO_STATUS_REACT=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BPUBLIC%5D=true&env=%5BAUTO_TYPING%5D%3Dfalse&env%5BAUTO_STATUS_VIEW%5D=true)**
+3. **Deploy on [KOYEB](https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FWENS ACKING&branch=main&name=WENS-V4&builder=dockerfile&env%5BAUTO_STATUS_REACT=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BPUBLIC%5D=true&env=%5BAUTO_TYPING%5D%3Dfalse&env%5BAUTO_STATUS_VIEW%5D=true)**
 3. **Deploy on [TALKDROVE](https://host.talkdrove.com)**
 3. **Deploy on [BOT HOSTING PANEL(DISCORD)](https://bot-hosting.net/?aff=1251693529084723300)**
 3. **Deploy on [KATBUMP PANEL(DISCORD)](https://dashboard.katabump.com/auth/login#1ae56c)**
