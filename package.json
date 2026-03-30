@@ -1,7 +1,7 @@
 {
-  "name": "Anita_V4",
+  "name": "WENS-V4",
   "version": "4.0.0",
-  "description": "Queen Anita V4 Is a Simple Whatsapp Bot Made by David Cyril",
+  "description": "WENS V4 Is a Simple Whatsapp Bot Made by WENS ACKING",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -11,7 +11,7 @@
     "whiskeysockets",
     "multi-device"
   ],
-  "author": "David Cyril",
+  "author": "WENS",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:wileys@^0.4.1",
